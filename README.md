@@ -2,7 +2,6 @@
 python library to simulate via openmmtools extension with Girsanov path reweighting and to analyse with a reweighted MSM of deeptime
 # How to set up the reweighting software?
 1. download existing software with reweighting modification 
-   (maybe later extensions are available within packages)
    a) go to github https://github.com/anyschaefer 
    b) clone the modified openmmtools, deeptime package by 
    	- copying the "HTTPS clone URL" link that appears after selecting the code icon and 
